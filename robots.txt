@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://acnash.github.io/sitemap.xml

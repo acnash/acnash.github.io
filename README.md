@@ -10,10 +10,12 @@ Edit the content in `scripts/build_site.py` and the styling in `assets/site.css`
 
 Publication titles, authorship and dates were checked against Anthony Nash's Google Scholar profile, publisher/PubMed pages and Crossref DOI records on 17 November 2026. DOI links are included with each article. The Proteins article uses the 2021 issue year; it was first published online in December 2020. The eight selected journal papers contain three first-author papers. The Molecular Space-Time preprint is presented separately. No journal-impact-factor or live citation-count claims are displayed.
 
-Career information comes from the user's supplied biography and the authorised LinkedIn fractional-scientific-leadership brief. Employment dates, undergraduate institution and degree dates have not been inferred. The user supplied 2013 as the PhD graduation year. Preserve the Search Console verification tag and the existing manuscript URLs when editing.
+Career information comes from the user's supplied biography and the authorised LinkedIn fractional-scientific-leadership brief. Employment dates have not been inferred. The user supplied 2013 as the PhD graduation year. Preserve the Search Console verification tag and the existing manuscript URLs when editing.
 
 The video retains autoplay, muted, loop and inline playback attributes, with controls so visitors can pause it.
 
 The Molecular Space-Time manuscript remains hosted independently at https://acnash.github.io/Strange-Matter-Engine/ in the Strange-Matter-Engine repository.
 
 The two MSc titles, institutions and study years were verified against the user's business CV and https://distributedscience.wordpress.com/about/ on 17 November 2026. The user confirmed the CV undergraduate dates, October 1998–June 2002, and the university name University of Central England (now Birmingham City University).
+
+Experience dates were transcribed from the user's Anthony Nash Business CV on 17 November 2026. Oxford is split into its two dated appointments; Motorola and Sendo are listed separately. WYW Quantum, Deep Mirror and Crystal Health remain undated because the CV does not date them. The Arizona State University dates describe the consultancy period recorded in that CV. Previously supplied role titles are otherwise retained.

@@ -15,3 +15,5 @@ Career information comes from the user's supplied biography and the authorised L
 The video retains autoplay, muted, loop and inline playback attributes, with controls so visitors can pause it.
 
 The Molecular Space-Time manuscript remains hosted independently at https://acnash.github.io/Strange-Matter-Engine/ in the Strange-Matter-Engine repository.
+
+The two MSc titles, institutions and study years were verified against the user's business CV and https://distributedscience.wordpress.com/about/ on 17 November 2026. Undergraduate dates remain omitted because those two sources differ.

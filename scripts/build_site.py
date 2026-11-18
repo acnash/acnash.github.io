@@ -24,7 +24,7 @@ def page(filename, title, description, content):
 <html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="pUQUqC7unUI2fWtByzZLzYiBhMAr6poU5VL-ZXD7ToI">
 <title>{escape(title)} | Dr Anthony Nash</title><meta name="description" content="{escape(description, quote=True)}">
-<link rel="canonical" href="{canonical}"><link rel="stylesheet" href="assets/site.css?v=20261118-light-grey">
+<link rel="canonical" href="{canonical}"><link rel="stylesheet" href="assets/site.css?v=20261118-grey-v2">
 <meta property="og:title" content="{escape(title, quote=True)} | Dr Anthony Nash"><meta property="og:description" content="{escape(description, quote=True)}"><meta property="og:type" content="website"><meta property="og:url" content="{canonical}">
 </head><body><a class="skip" href="#main">Skip to content</a>
 <header class="site-header"><div class="wrap"><div class="topline"><a class="brand" href="index.html">Dr Anthony Nash<small>Scientific leadership &amp; computational chemistry</small></a><a class="contact-link" href="mailto:info@acnash.co.uk">Discuss a collaboration</a></div><nav class="primary-nav" aria-label="Main navigation">{nav}</nav></div></header>
